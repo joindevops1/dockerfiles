@@ -1,5 +1,5 @@
 FROM almalinux:8
 LABEL TRAINING="DEVOPS" \
-      TRAINER="Pavan Kumar" \
+      TRAINER="PavanKumar" \
       DURATION="120HRA" \
       org.opencontainers.image.authors="rajeshveeranki478@gmail.com"
