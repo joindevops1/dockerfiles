@@ -1,4 +1,4 @@
 FROM almalinux:8
-RUN adduser pavan kumar
-USER pavan kumar
+RUN adduser sivakumar
+USER sivakumar
 CMD ["sleep","100"]
